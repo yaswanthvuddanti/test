@@ -5,9 +5,9 @@
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>@ant.project.name@</name>
-  <description>@description@</description>
-  <url>@project.url@</url>
+  <name>Sample project</name>
+  <description>@description</description>
+  <url>project.url</url>
 
   <licenses>
     <license>
